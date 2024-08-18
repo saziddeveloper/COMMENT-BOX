@@ -57,9 +57,9 @@ article {
     background-color: burlywood;
     border-radius: 2px;
 }
-#button:hover {
+#button:active {
     color: burlywood;
-    background-color: rgb(61, 58, 58);
+    background-color: #d1c3b2;
 }
 p{
     position: sticky;
