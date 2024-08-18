@@ -58,8 +58,7 @@ article {
     border-radius: 2px;
 }
 #button:active {
-    color: burlywood;
-    background-color: #d1c3b2;
+    background-color: #d9c0a1;
 }
 p{
     position: sticky;
